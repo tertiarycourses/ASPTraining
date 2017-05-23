@@ -1,0 +1,44 @@
+﻿body, table 
+{
+    font-family:Arial,Helvetica,Sans-Serif;
+    font-size:.9em;
+}
+a 
+{
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+    background-color:#EEEEEE;
+}
+
+.menuPanel
+{
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 250px;
+}
+.validationError
+{
+    background-color:#EEEEEE;
+    font-weight:bold;
+}
+
+.reportHeader 
+{
+    background-color:#507CD1;
+    font-weight:bold;
+    color:White; 
+}
+.reportRow
+{   
+    background-color:#EFF3FB;
+}
+.reportAltRow
+{
+    background-color:#FFFFFF;
+}

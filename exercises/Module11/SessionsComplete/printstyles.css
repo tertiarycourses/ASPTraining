@@ -1,0 +1,20 @@
+﻿body, table 
+{
+    font-family:Times New Roman, Serif;
+    font-size:.9em;
+}
+.reportHeader 
+{
+    font-weight:bold;
+    background-color:#000000;
+    color:#FFFFFF;
+    text-align:left;
+}
+.reportRow
+{   
+    background-color:#FFFFFF;
+}
+.alternatingRow
+{
+    background-color:#666666;
+}

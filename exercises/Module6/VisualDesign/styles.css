@@ -1,0 +1,15 @@
+﻿body, table 
+{
+    font-family:Arial,Helvetica,Sans-Serif;
+    font-size:.9em;
+}
+a 
+{
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+    background-color:#EEEEEE;
+}
+
