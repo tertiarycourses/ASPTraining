@@ -6,6 +6,7 @@ These are the exercise files used for [ASP.NET Essential Training](https://www.t
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/asp-net-essential-training-singapore.html
+https://www.tertiarycourses.com.my/asp-net-essential-training-malaysia.html
 
 <p><strong>Module 1. Getting Started</strong></p>
 <ul>
